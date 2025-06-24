@@ -2,11 +2,13 @@
 permalink: /
 title: "Zongmin Wang"
 author_profile: true
-header:
-  overlay: false
-  show_title: false
 ---
 
+<style>
+.page__title {
+  display: none;
+}
+</style>
 <!-- Biographies Section -->
 <div id="about"></div>
 ## Biographies
