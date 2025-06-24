@@ -26,7 +26,7 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 **Northeastern University**, M.E. in Software College  
 *Master of Engineering in Software Engineering*, **GPA:** 3.52  
 
-- 🏆 **Awards:** First-Class Scholarship for Graduate Students  
+-  First-Class Scholarship for Graduate Students  
 
 ---
 
@@ -34,7 +34,8 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 **Northeastern University**, B.E. in Software College  
 *Bachelor of Engineering in Software Engineering*, **GPA:** 3.6  
 
-- 🏆 **Awards:** Academic Second Class Scholarship, Outstanding Student of Northeastern University
+-  Academic Second Class Scholarship
+-  Outstanding Student of Northeastern University
 
 
 ---
