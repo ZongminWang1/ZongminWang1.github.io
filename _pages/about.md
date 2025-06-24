@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biographies"
+title: "Zongmin Wang"
 author_profile: true
 redirect_from: 
   - /about/
