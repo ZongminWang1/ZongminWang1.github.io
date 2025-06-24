@@ -24,21 +24,16 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 
 ### <span style="float: right;">Sep. 2023 – Present</span>  
 **Northeastern University**, M.E. in Software College  
-*Master of Engineering in Software Engineering*  
-**GPA:** 3.52  
+*Master of Engineering in Software Engineering*   **GPA:** 3.52  
 
-**Highlights:**
 - 🏆 **Awards:** First-Class Scholarship for Graduate Students  
-- 🔬 **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security
 
 ---
 
 ### <span style="float: right;">Sep. 2019 – Jun. 2023</span>  
 **Northeastern University**, B.E. in Software College  
-*Bachelor of Engineering in Software Engineering*  
-**GPA:** 3.6  
+*Bachelor of Engineering in Software Engineering*  **GPA:** 3.6  
 
-**Highlights:**
 - 🏆 **Awards:** Academic Second Class Scholarship, Outstanding Student of Northeastern University
 
 
