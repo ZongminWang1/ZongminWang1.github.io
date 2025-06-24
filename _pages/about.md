@@ -22,7 +22,25 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 <div id="educations"></div>
 ## Educations
 
-Wang Zongmin received his Bachelor’s degree in Software Engineering from Northeastern University (2019–2023) and is currently pursuing a Master’s degree at the same institution. His academic focus lies in software and information security-related fields.
+### <span style="float: right;">Sep. 2023 – Present</span>  
+**Northeastern University**, M.E. in Software College  
+*Master of Engineering in Software Engineering*  
+**GPA:** 3.52  
+
+**Highlights:**
+- 🏆 **Awards:** First-Class Scholarship for Graduate Students  
+- 🔬 **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security
+
+---
+
+### <span style="float: right;">Sep. 2019 – Jun. 2023</span>  
+**Northeastern University**, B.E. in Software College  
+*Bachelor of Engineering in Software Engineering*  
+**GPA:** 3.6  
+
+**Highlights:**
+- 🏆 **Awards:** Academic Second Class Scholarship, Outstanding Student of Northeastern University
+
 
 ---
 
