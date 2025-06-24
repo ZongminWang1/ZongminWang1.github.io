@@ -2,6 +2,9 @@
 permalink: /
 title: "Zongmin Wang"
 author_profile: true
+header:
+  overlay: false
+  show_title: false
 ---
 
 <!-- Biographies Section -->
