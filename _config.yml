@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ZongminWang1.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Zongmin Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar111111111"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Zongmin Wang is currently pursuing a Master's degree at the College of Software, Northeastern University."
+  location         : "Liaoning, China"
+  employer         : "Northeastern University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zmwang@stumail.neu.edu.cn" 
 
   # Academic websites
   academia         : # URL
