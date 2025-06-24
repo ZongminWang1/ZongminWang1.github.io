@@ -12,7 +12,7 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 
 His **research interests** includes: Cryptography, Trusted Computing, Access Control, Deep Learning Security. He has one paper published and indexed from the International Conference on Information Security and Cryptology 2024. Additionally, another paper has been accepted by an EI-indexed conference and is awaiting indexing. 
 
- [(Click here to view my CV)](https://ZongminWang1.github.io/files/Template_CV_Eng.pdf) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ [(Click here to view my CV)](https://ZongminWang1.github.io/files/Template_CV_Eng.pdf)
 
 Educations
 ======
