@@ -26,8 +26,6 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 - First-Class Scholarship for Graduate Students  
 - **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
----
-
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
  Major:Software Engineering, **GPA:** 3.6  
 - Outstanding Student of Northeastern University  
@@ -35,9 +33,6 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 - Academic Third Class Scholarship  
 - Beijing SMC Education Foundation Scholarship  
 - Student Award Fund, Software College, Northeastern University
-
-
-
 
 ---
 
@@ -54,9 +49,36 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 
 <!-- Publications Section -->
 <div id="publications"></div>
-## Publications
+## 📝 Publications
 
-Coming soon.
+
+-  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
+  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness.”  
+  *In Information Security and Cryptology (Inscrypt 2024), Lecture Notes in Computer Science, vol. 15543, pp. 3–23.*  
+  Springer Nature Singapore, 2025. Editors: Dongdai Lin, Meiqin Wang, Moti Yung.  
+  [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1)
+
+-  **Zongmin Wang**, Guanming Che, Qiang Wang*, Fucai Zhou, Jian Xu, and Fanchao Meng.  
+  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.”  
+  *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).*  
+  *(Accepted)*
+
+-  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, Bao Li, and Haoyan Huang.  
+  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.”  
+  *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  
+  *(Under review)*
+
+
+-  Qiang Wang*, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
+  “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.”  
+  *Submitted to IEEE Transactions on Cloud Computing (TCC).*  
+  *(Under review)*
+
+-  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.”  
+  *Submitted to Journal of Information Security and Applications (JISA).*  
+  *(Under review)*
+
 
 ---
 
