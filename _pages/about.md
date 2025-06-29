@@ -60,12 +60,10 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 
 -  **Zongmin Wang**, Guanming Che, Qiang Wang*, Fucai Zhou, Jian Xu, and Fanchao Meng.  
   “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.”  
-  *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).*  
-  *(Accepted)*
+  *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).* (Accepted)
 
 -  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, Bao Li, and Haoyan Huang.  
-  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.”  
-  *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
+  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
 
 
 -  Qiang Wang*, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
