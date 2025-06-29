@@ -22,14 +22,14 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 ## 📖 Educations
 
 **Sep. 2023 – Present**, Northeastern University (NEU), M.Eng. in Software Engineering  
-**GPA:** 3.52  **Full Scholarship**   
+ Major:Software Engineering, **GPA:** 3.52  
 - First-Class Scholarship for Graduate Students  
 - **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
 ---
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
-**GPA:** 3.6  
+ Major:Software Engineering, **GPA:** 3.6  
 - Outstanding Student of Northeastern University  
 - Academic Second Class Scholarship  
 - Academic Third Class Scholarship  
