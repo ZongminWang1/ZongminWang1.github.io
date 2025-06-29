@@ -59,20 +59,17 @@ author_profile: true
   [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1)
 
 -  **Zongmin Wang**, Guanming Che, Qiang Wang*, Fucai Zhou, Jian Xu, and Fanchao Meng.  
-  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.”  
-  *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).* (Accepted)
+  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).* (Accepted)
 
 -  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
 
 
 -  Qiang Wang*, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
-  “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.”  
-  *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
+  “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
 
 -  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
-  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.”  
-  *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
 
 
 ---
