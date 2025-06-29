@@ -65,19 +65,16 @@ Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to
 
 -  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.”  
-  *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  
-  *(Under review)*
+  *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
 
 
 -  Qiang Wang*, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.”  
-  *Submitted to IEEE Transactions on Cloud Computing (TCC).*  
-  *(Under review)*
+  *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
 
 -  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
   “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.”  
-  *Submitted to Journal of Information Security and Applications (JISA).*  
-  *(Under review)*
+  *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
 
 
 ---
