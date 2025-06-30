@@ -76,9 +76,16 @@ author_profile: true
 
 <!-- Awards Section -->
 <div id="awards"></div>
-## Awards
+## 🏆 Honors & Awards
 
-Coming soon.
+### Mathematical Contest in Modeling (MCM) <span style="float:right;">May 2022</span>  
+-  **Honorable Mention**, Team Award (Team Leader)
+
+---
+
+### National Undergraduate Mathematics Competition <span style="float:right;">Dec 2021</span>  
+-  **National Top Prize**
+
 
 ---
 
