@@ -16,8 +16,11 @@ main:
     url: "#news"
   - title: "Publications"
     url: "#publications"
-  - title: "Awards"
+  - title: " Honors & Awards"
     url: "#awards"
-  - title: "More Info"
-    url: "#moreinfo"
+  -- title: "Experience"
+  url: /#experience
+- title: "Skills"
+  url: /#skills
+
 
