@@ -100,18 +100,53 @@ author_profile: true
 - 2022.05: Mathematical Contest in Modeling (MCM), Honorable Mention, Team Award (Team Leader)
 - 2021.12: National Undergraduate Mathematics Competition, National Top Prize
 
-<!-- Experience Section -->
+
+---
+<!-- Experiences Section -->
 <div id="experience"></div>
 ## 💼 Experiences
 
-### Research Assistant, Northeastern University <span style="float: right;">Sep. 2023 – Present</span>  
-- Conducted research on secure searchable encryption and malware detection in untrusted environments  
-- Co-authored papers accepted at ISC 2024 and NGDN 2025  
-- Built prototype systems based on Intel SGX and ORAM
+### 🏢 Internship
 
-### Intern, XX Cybersecurity Lab <span style="float: right;">Jul. 2022 – Aug. 2022</span>  
-- Developed tools for real-time data access control in cloud systems  
-- Participated in threat modeling and secure system design reviews
+- **Research and Development Intern**, *Shenyang Xinlongyuan Co., Ltd – Shenyang, China*  
+  *May 2024 – Sep. 2024*  
+  Engaged in R&D activities related to software and system development during the internship.
+
+### 🧪 Academic Activities
+
+
+-NGDN 2025: In Jun. 2025, I attended the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025) and delivered an oral presentation.
+-Inscrypt 2024: In Dec. 2024, I attended the International Conference on Information Security and Cryptology (Inscrypt 2024) and delivered an oral presentation.
+-CNCC 2023: In Oct. 2023, I attended the China National Computer Congress (CNCC 2023) and delivered an oral presentation.
+
+
+### 🎓 Student Work
+
+- Vice Class Leader, Software College, Northeastern University – Shenyang, China  
+- Leader of Practice Group, Software College, Northeastern University  
+- Teaching Assistant, Advisor's Course  
+- Awarded Outstanding Trainee in Career Development Program, Northeastern University
+
+---
+
+## 🧠 Projects
+
+###  Research on Secure Multi-Party Computation and Privacy Protection for Power IoT Using Homomorphic Encryption  
+**Role:** Project Participant    **Duration:** May 2024 – Dec. 2024  
+Contributed to applying homomorphic encryption and secure multi-party computation techniques to the Power Internet of Things. Participated in front-end development by coding user interface components to support the research platform.
+
+###  NFC Secure Relay System  
+**Role:** Project Participant    **Duration:** Jun. 2023 – Sep. 2023  
+Developed a system capable of implementing relay functionality during NFC communication while ensuring security for long-distance NFC use, effectively preventing unauthorized transactions and man-in-the-middle attacks.
+
+###  Blockchain-based Methane Emission Trading Platform  
+**Role:** Primary Contributor    **Duration:** Jan. 2023 – May 2023  
+Designed and implemented a blockchain-based methane emission trading system to transparently and securely manage methane gas emissions. Leveraged blockchain technology’s immutability and transparency to ensure data integrity and regulatory compliance.
+
+###  Cross-border E-commerce Service Platform  
+**Role:** Primary Contributor    **Duration:** May 2022 – July 2022  
+Contributed to the development of a full-stack cross-border e-commerce platform by designing the database schema and implementing a decoupled front-end/back-end architecture.
+
 
 ---
 
@@ -121,11 +156,8 @@ author_profile: true
 ## 🛠 Skills
 
 - Natural Languages：Mandarin (Native), English (CET-6)
-
 - Programming Languages：C++, C, Java, R, SQL, Python
-
 - Software & Tools：MATLAB, IntelliJ IDEA, PyCharm, Visual Studio Code, Origin, Visio, PowerPoint, LaTeX
-
 - Core Knowledge Base： Encryption algorithms (Symmetric/Asymmetric), Cryptographic principles, Federated Learning, Data Retrieval, SVM (Support Vector Machine), Decision Tree, Random Forest, LSTM (Long Short-Term Memory), Neural Networks (DNNs, CNNs)
 
 
