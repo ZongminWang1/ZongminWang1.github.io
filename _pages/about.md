@@ -81,16 +81,33 @@ author_profile: true
 ### Mathematical Contest in Modeling (MCM) <span style="float:right;">May 2022</span>  
 -  **Honorable Mention**, Team Award (Team Leader)
 
----
-
 ### National Undergraduate Mathematics Competition <span style="float:right;">Dec 2021</span>  
 -  **National Top Prize**
 
 
 ---
 
-<!-- For More Info Section -->
-<div id="moreinfo"></div>
-## More Info
+<!-- Experience Section -->
+<div id="experience"></div>
+## 💼 Experiences
 
-More information about configuring Academic Pages can be found in the [official guide](https://academicpages.github.io/markdown/) and [GitHub wiki](https://github.com/academicpages/academicpages.github.io/wiki).
+### Research Assistant, Northeastern University <span style="float: right;">Sep. 2023 – Present</span>  
+- Conducted research on secure searchable encryption and malware detection in untrusted environments  
+- Co-authored papers accepted at ISC 2024 and NGDN 2025  
+- Built prototype systems based on Intel SGX and ORAM
+
+### Intern, XX Cybersecurity Lab <span style="float: right;">Jul. 2022 – Aug. 2022</span>  
+- Developed tools for real-time data access control in cloud systems  
+- Participated in threat modeling and secure system design reviews
+
+---
+
+<!-- Skills Section -->
+<div id="skills"></div>
+## 🛠 Skills
+
+**Programming:** Python, Java, C/C++, Solidity  
+**Security:** Intel SGX, ORAM, Access Control Models, Attribute-Based Encryption  
+**Tools:** Git, Docker, LaTeX, Linux, VSCode  
+**Research:** Secure Multi-party Computation, Federated Learning, Deep Learning Security  
+
