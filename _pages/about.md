@@ -59,17 +59,12 @@ author_profile: true
   *In Information Security and Cryptology (Inscrypt 2024), Lecture Notes in Computer Science, vol. 15543, pp. 3–23.*  
   Springer Nature Singapore, 2025. Editors: Dongdai Lin, Meiqin Wang, Moti Yung.  
   [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1)
-
 -  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
   “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (Accepted)
-
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
-
-
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
-
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
 
@@ -120,7 +115,7 @@ author_profile: true
 ### 🎓 Student Work
 
 - Vice Class Leader, Software College, Northeastern University – Shenyang, China  
-- Leader of Practice Group, Software College, Northeastern University  
+- Leader of the Outstanding Practice Group, Software College, Northeastern University  
 - Teaching Assistant, Advisor's Course  
 - Awarded Outstanding Trainee in Career Development Program, Northeastern University
 
@@ -131,19 +126,15 @@ author_profile: true
 ###  Research on Secure Multi-Party Computation and Privacy Protection for Power IoT Using Homomorphic Encryption  
 **Role:** Project Participant    **Duration:** May 2024 – Dec. 2024  
 Contributed to applying homomorphic encryption and secure multi-party computation techniques to the Power Internet of Things. Participated in front-end development by coding user interface components to support the research platform.
-
 ###  NFC Secure Relay System  
 **Role:** Project Participant    **Duration:** Jun. 2023 – Sep. 2023  
 Developed a system capable of implementing relay functionality during NFC communication while ensuring security for long-distance NFC use, effectively preventing unauthorized transactions and man-in-the-middle attacks.
-
 ###  Blockchain-based Methane Emission Trading Platform  
 **Role:** Primary Contributor    **Duration:** Jan. 2023 – May 2023  
 Designed and implemented a blockchain-based methane emission trading system to transparently and securely manage methane gas emissions. Leveraged blockchain technology’s immutability and transparency to ensure data integrity and regulatory compliance.
-
 ###  Cross-border E-commerce Service Platform  
 **Role:** Primary Contributor    **Duration:** May 2022 – July 2022  
 Contributed to the development of a full-stack cross-border e-commerce platform by designing the database schema and implementing a decoupled front-end/back-end architecture.
-
 
 ---
 
