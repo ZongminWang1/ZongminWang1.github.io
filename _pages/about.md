@@ -114,10 +114,10 @@ author_profile: true
 
 ### 🧪 Academic Activities
 
+-NGDN 2025: In Jun. 2025, I attended the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025) and delivered an oral presentation
 
--NGDN 2025: In Jun. 2025, I attended the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025) and delivered an oral presentation.
--Inscrypt 2024: In Dec. 2024, I attended the International Conference on Information Security and Cryptology (Inscrypt 2024) and delivered an oral presentation.
--CNCC 2023: In Oct. 2023, I attended the China National Computer Congress (CNCC 2023) and delivered an oral presentation.
+-Inscrypt 2024: In Dec. 2024, I attended the International Conference on Information Security and Cryptology (Inscrypt 2024) and delivered an oral presentation
+-CNCC 2023: In Oct. 2023, I attended the China National Computer Congress (CNCC 2023) and delivered an oral presentation
 
 
 ### 🎓 Student Work
