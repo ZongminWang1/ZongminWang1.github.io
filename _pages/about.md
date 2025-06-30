@@ -40,14 +40,12 @@ author_profile: true
 <div id="news"></div>
 ## 🔥 News
 
-- 2025.06: 🎉 Manuscript accepted by **IEEE IECICT 2025**  
-- 2025.05: 🎉 Grand Prize, “Challenge Cup” Shaanxi Province  
-- 2025.04: 🎉 Led team to Top 10 “Flag Youth League Branch” (1st place)  
-- 2024.12: 🎉 National Third Prize, Smart-city Design Contest  
-- 2024.11: 🎉 National Scholarship for Graduate Students  
-- 2023.07: 🎉 First Prize, GigaDevice Innovation Cup  
-- 2021.10: 🎉 National Inspirational Scholarship  
-
+- 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
+- 2024.11: 🎉 My manuscript,  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness” has been accepted by Inscrypt 2024  
+- 2024.09: 🎉 Awarded First-Class Scholarship for Graduate Students  
+- 2023.03: 🎉 Admitted to Northeastern University Software College for Master’s program with a score of 409 on the graduate entrance exam  
+- 2022.05: 🎉 Received Student Award Fund, Software College, Northeastern University  
+- 2021.12: 🎉 First Prize, National Undergraduate Mathematics Competition
 
 ---
 
@@ -63,7 +61,7 @@ author_profile: true
   [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1)
 
 -  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
-  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).* (Accepted)
+  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (Accepted)
 
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
