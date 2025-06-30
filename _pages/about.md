@@ -85,10 +85,13 @@ author_profile: true
 
 ###  Individual Honors
 
-- 2024.10: Outstanding Graduate Student  
-- 2023.05: Excellent Speaker, “We Talk” Workshop  
-- 2021.10: Self-striving and Persevering Outstanding Individual  
-- 2020–2021: Academic Excellence (Two consecutive years)  
+
+- 2024.09: First-Class Scholarship for Graduate Students  
+- 2022.05: Student Award Fund, Software College, Northeastern University  
+- 2021–2023: Academic Third Class Scholarship  
+- 2020.11: Beijing SMC Education Foundation Scholarship  
+- 2020.10: Academic Second Class Scholarship  
+- 2020.10: Outstanding Student of Northeastern University  
 
 
 ---
@@ -96,7 +99,6 @@ author_profile: true
 ### Competition Awards 
 - 2022.05: Mathematical Contest in Modeling (MCM), Honorable Mention, Team Award (Team Leader)
 - 2021.12: National Undergraduate Mathematics Competition, National Top Prize
----
 
 <!-- Experience Section -->
 <div id="experience"></div>
