@@ -18,9 +18,9 @@ main:
     url: "#publications"
   - title: " Honors & Awards"
     url: "#awards"
-  -- title: "Experiences"
+  - title: "Experiences"
   url: /#experience
-- title: "Skills"
+  - title: "Skills"
   url: /#skills
 
 
