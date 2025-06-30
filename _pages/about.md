@@ -22,12 +22,12 @@ author_profile: true
 ## 📖 Educations
 
 **Sep. 2023 – Present**, Northeastern University (NEU), M.Eng. in Software Engineering  
- Major:Software Engineering, **GPA:** 3.52  
+ Major:Software Engineering, **GPA:** 3.59  
 - First-Class Scholarship for Graduate Students  
 - **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
- Major:Software Engineering, **GPA:** 3.6  
+ Major:Software Engineering, **GPA:** 3.63  
 - Outstanding Student of Northeastern University  
 - Academic Second Class Scholarship  
 - Academic Third Class Scholarship  
