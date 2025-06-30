@@ -56,23 +56,23 @@ author_profile: true
 ## 📝 Publications
 
 
--  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
+-  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Registered Attribute-Based Keyword Search Supporting Fairness.”  
   *In Information Security and Cryptology (Inscrypt 2024), Lecture Notes in Computer Science, vol. 15543, pp. 3–23.*  
   Springer Nature Singapore, 2025. Editors: Dongdai Lin, Meiqin Wang, Moti Yung.  
   [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1)
 
--  **Zongmin Wang**, Guanming Che, Qiang Wang*, Fucai Zhou, Jian Xu, and Fanchao Meng.  
+-  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
   “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025).* (Accepted)
 
--  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, Bao Li, and Haoyan Huang.  
+-  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to The 27th International Conference on Information and Communications Security (ICICS 2025).*  (Under review)
 
 
--  Qiang Wang*, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
+-  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
 
--  **Zongmin Wang**, Qiang Wang*, Fucai Zhou, and Jian Xu.  
+-  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
 
 
@@ -117,10 +117,15 @@ author_profile: true
 
 <!-- Skills Section -->
 <div id="skills"></div>
+
 ## 🛠 Skills
 
-**Programming:** Python, Java, C/C++, Solidity  
-**Security:** Intel SGX, ORAM, Access Control Models, Attribute-Based Encryption  
-**Tools:** Git, Docker, LaTeX, Linux, VSCode  
-**Research:** Secure Multi-party Computation, Federated Learning, Deep Learning Security  
+- Natural Languages：Mandarin (Native), English (CET-6)
+
+- Programming Languages：C++, C, Java, R, SQL, Python
+
+- Software & Tools：MATLAB, IntelliJ IDEA, PyCharm, Visual Studio Code, Origin, Visio, PowerPoint, LaTeX
+
+- Core Knowledge Base： Encryption algorithms (Symmetric/Asymmetric), Cryptographic principles, Federated Learning, Data Retrieval, SVM (Support Vector Machine), Decision Tree, Random Forest, LSTM (Long Short-Term Memory), Neural Networks (DNNs, CNNs)
+
 
