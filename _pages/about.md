@@ -38,12 +38,16 @@ author_profile: true
 
 <!-- News Section -->
 <div id="news"></div>
-## News
+## 🔥 News
 
-1. Registered a GitHub account and created this academic homepage.  
-2. Paper accepted by ISC 2024.  
-3. One EI-indexed conference paper under processing.  
-4. Constantly updating new content and publications.
+- 2025.06: 🎉 Manuscript accepted by **IEEE IECICT 2025**  
+- 2025.05: 🎉 Grand Prize, “Challenge Cup” Shaanxi Province  
+- 2025.04: 🎉 Led team to Top 10 “Flag Youth League Branch” (1st place)  
+- 2024.12: 🎉 National Third Prize, Smart-city Design Contest  
+- 2024.11: 🎉 National Scholarship for Graduate Students  
+- 2023.07: 🎉 First Prize, GigaDevice Innovation Cup  
+- 2021.10: 🎉 National Inspirational Scholarship  
+
 
 ---
 
@@ -74,17 +78,24 @@ author_profile: true
 
 ---
 
+
 <!-- Awards Section -->
 <div id="awards"></div>
-## 🏆 Honors & Awards
+## 🎖 Honors and Awards
 
-### Mathematical Contest in Modeling (MCM) <span style="float:right;">May 2022</span>  
--  **Honorable Mention**, Team Award (Team Leader)
+###  Individual Honors
 
-### National Undergraduate Mathematics Competition <span style="float:right;">Dec 2021</span>  
--  **National Top Prize**
+- 2024.10: Outstanding Graduate Student  
+- 2023.05: Excellent Speaker, “We Talk” Workshop  
+- 2021.10: Self-striving and Persevering Outstanding Individual  
+- 2020–2021: Academic Excellence (Two consecutive years)  
 
 
+---
+
+### Competition Awards 
+- 2022.05: Mathematical Contest in Modeling (MCM), Honorable Mention, Team Award (Team Leader)
+- 2021.12: National Undergraduate Mathematics Competition, National Top Prize
 ---
 
 <!-- Experience Section -->
