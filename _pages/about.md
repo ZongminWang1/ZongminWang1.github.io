@@ -86,9 +86,6 @@ author_profile: true
 - 2020.10: Academic Second Class Scholarship  
 - 2020.10: Outstanding Student of Northeastern University  
 
-
----
-
 ### Competition Awards 
 - 2022.05: Mathematical Contest in Modeling (MCM), Honorable Mention, Team Award (Team Leader)
 - 2021.12: National Undergraduate Mathematics Competition, National Top Prize
