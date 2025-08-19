@@ -40,11 +40,17 @@ head: |
 <!-- News Section -->
 <div id="news"></div>
 ## 🔥 News
-<img 
-  src="/images/news-section.png" 
-  alt="My recent academic news and awards"
-  style="max-width: 100%; height: auto; border: 1px solid #eee;"
->
+<picture>
+  <!-- 暗黑模式使用深色图片 -->
+  <source srcset="/images/news-section-dark.png" media="(prefers-color-scheme: dark)">
+  <!-- 默认图片 -->
+  <img 
+    src="/images/news-section.png" 
+    alt="My recent academic news and awards"
+    style="max-width: 100%; height: auto;"
+    loading="lazy"  <!-- 延迟加载优化性能 -->
+  >
+</picture>
 
 <!-- 
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
@@ -75,11 +81,15 @@ head: |
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)-->
 
-<img 
-  src="/images/publications-section.png" 
-  alt="List of my research publications"
-  style="max-width: 100%; height: auto; border: 1px solid #eee;"
->
+<picture>
+  <source srcset="/images/publications-section-dark.png" media="(prefers-color-scheme: dark)">
+  <img 
+    src="/images/publications-section.png" 
+    alt="List of my research publications"
+    style="max-width: 100%; height: auto;"
+    loading="lazy"
+  >
+</picture>
 ---
 
 <!-- Awards Section -->
