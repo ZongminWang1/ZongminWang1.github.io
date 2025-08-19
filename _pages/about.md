@@ -45,12 +45,14 @@ head: |
   alt="My recent academic news and awards"
   style="max-width: 100%; height: auto; border: 1px solid #eee;"
 >
+
+<!-- 
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
 - 2024.11: 🎉 My manuscript,  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness” has been accepted by Inscrypt 2024  
 - 2024.09: 🎉 Awarded First-Class Scholarship for Graduate Students  
 - 2023.03: 🎉 Admitted to Northeastern University Software College for Master’s program with a score of 409 on the graduate entrance exam  
 - 2022.05: 🎉 Received Student Award Fund, Software College, Northeastern University  
-- 2021.12: 🎉 First Prize, National Undergraduate Mathematics Competition
+- 2021.12: 🎉 First Prize, National Undergraduate Mathematics Competition-->
 
 ---
 
@@ -58,7 +60,7 @@ head: |
 <div id="publications"></div>
 ## 📝 Publications
 
-
+<!--
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Registered Attribute-Based Keyword Search Supporting Fairness.”  
   *In Information Security and Cryptology (Inscrypt 2024), Lecture Notes in Computer Science, vol. 15543, pp. 3–23.*  
@@ -71,9 +73,13 @@ head: |
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
-  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Under review)-->
 
-
+<img 
+  src="/images/publications-section.png" 
+  alt="List of my research publications"
+  style="max-width: 100%; height: auto; border: 1px solid #eee;"
+>
 ---
 
 <!-- Awards Section -->
