@@ -40,7 +40,11 @@ head: |
 <!-- News Section -->
 <div id="news"></div>
 ## 🔥 News
-
+<img 
+  src="/images/news-section.png" 
+  alt="My recent academic news and awards"
+  style="max-width: 100%; height: auto; border: 1px solid #eee;"
+>
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
 - 2024.11: 🎉 My manuscript,  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness” has been accepted by Inscrypt 2024  
 - 2024.09: 🎉 Awarded First-Class Scholarship for Graduate Students  
