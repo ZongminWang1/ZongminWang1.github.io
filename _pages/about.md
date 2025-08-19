@@ -2,6 +2,8 @@
 permalink: /
 title: "Zongmin Wang"
 author_profile: true
+head: |
+  <meta name="robots" content="noindex">
 ---
 
 <style>
