@@ -65,7 +65,7 @@ head: |
 -  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
   “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (Accepted)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
-  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Major revised)
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Major revised, Submitted in April, 2025)
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review, Submitted in June, 2025)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
