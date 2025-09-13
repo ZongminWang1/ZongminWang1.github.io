@@ -71,15 +71,7 @@ head: |
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (Under review, Submitted in August, 2025)
 
-<picture>
-  <source srcset="/images/publications-section-dark.png" media="(prefers-color-scheme: dark)">
-  <img 
-    src="/images/publications-section.png" 
-    alt="List of my research publications"
-    style="max-width: 100%; height: auto;"
-    loading="lazy"
-  >
-</picture>
+
 ---
 
 <!-- Awards Section -->
