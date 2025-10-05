@@ -15,7 +15,7 @@ head: |
 <div id="about"></div>
 ## Biographies
 
-&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Cryptography, Trusted Computing, Access Control, Deep Learning Security, Malware Detection, Federated Learning. His recent research outputs include peer-reviewed and under-review work in Inscrypt 2024 (LNCS, accepted), NGDN 2025 (accepted), JISA (major revision, 2025), Trustcom 2025 (under review), and TCC (under review). <br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf)
+&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Cryptography, Trusted Computing, Access Control, Deep Learning Security, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. One manuscript is in major revision at JISA, and another is under review at TCC. <br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf)
 
 ---
 
@@ -42,7 +42,7 @@ head: |
 ## 🔥 News
 
 
-
+- 2025.10: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE TrustCom / BigDataSE / CSE / EUC / iSCI - 2025 
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
 - 2024.11: 🎉 My manuscript,  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness” has been accepted by Inscrypt 2024  
 - 2024.09: 🎉 Awarded First-Class Scholarship for Graduate Students  
