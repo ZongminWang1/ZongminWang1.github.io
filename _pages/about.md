@@ -29,7 +29,7 @@ head: |
 - **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
- Major:Software Engineering, GPA: 3.6/5  
+ Major:Software Engineering, GPA: 3.61/5  
 - Outstanding Student of Northeastern University  
 - Academic Second Class Scholarship  
 - Academic Third Class Scholarship  
