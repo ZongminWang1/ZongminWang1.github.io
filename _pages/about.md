@@ -24,12 +24,12 @@ head: |
 ## 📖 Educations
 
 **Sep. 2023 – Present**, Northeastern University (NEU), M.Eng. in Software Engineering  
- Major:Software Engineering, GPA: 3.59, Rank 3/73 (Major), Rank 1/24 (Class)
+ Major:Software Engineering, GPA: 3.52/4, Rank 3/73 (Major), Rank 1/24 (Class)
 - First-Class Scholarship for Graduate Students  
 - **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
- Major:Software Engineering, GPA: 3.63  
+ Major:Software Engineering, GPA: 3.6/5  
 - Outstanding Student of Northeastern University  
 - Academic Second Class Scholarship  
 - Academic Third Class Scholarship  
@@ -63,13 +63,13 @@ head: |
   Springer Nature Singapore, 2025. Editors: Dongdai Lin, Meiqin Wang, Moti Yung.  
   [🔗 DOI: 10.1007/978-981-96-4731-6_1](https://doi.org/10.1007/978-981-96-4731-6_1) (CE:C, CCF-C, Acceptance rate: 25%)
 -  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
-  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (Accepted, EI)
+  “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (EI)
+-  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
+  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (CCF:C, CORE:A, QUALIS:A2)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
   “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Major revised, Submitted in April, 2025, JCR: Q2)
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review, Submitted in June, 2025, JCR: Q1)
--  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
-  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (Under review, Submitted in August, 2025, CCF:C, CORE:A, QUALIS:A2)
 
 
 ---
