@@ -15,7 +15,7 @@ head: |
 <div id="about"></div>
 ## Biographies
 
-&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Cryptography, Trusted Computing, Access Control, Deep Learning Security, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. In addition, one manuscript is in major revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
+&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Cryptography, Trusted Computing, Access Control, Deep Learning Security, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
 
 ---
 
@@ -67,7 +67,7 @@ head: |
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
   “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (CCF:C, CORE:A, QUALIS:A2)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
-  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Major revised, Submitted in April, 2025, JCR: Q2)
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Minor revised, Submitted in April, 2025, JCR: Q2)
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review, Submitted in June, 2025, JCR: Q1)
 
