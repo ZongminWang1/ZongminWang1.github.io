@@ -41,7 +41,7 @@ head: |
 <div id="news"></div>
 ## 🔥 News
 
-
+- 2025.10: 🎉 Awarded National Scholarship
 - 2025.10: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE TrustCom / BigDataSE / CSE / EUC / iSCI - 2025 
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
 - 2024.11: 🎉 My manuscript,  “Revocable Registered Attribute-Based Keyword Search Supporting Fairness” has been accepted by Inscrypt 2024  
