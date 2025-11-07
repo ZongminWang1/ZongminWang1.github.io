@@ -142,7 +142,7 @@ Contributed to the development of a full-stack cross-border e-commerce platform 
 
 ## 🛠 Skills
 
-- Natural Languages：Mandarin (Native), English (CET-6)
+- Natural Languages：IELTS 6.5(6), English (CET-6)
 - Programming Languages：C++, C, Java, R, SQL, Python
 - Software & Tools：MATLAB, IntelliJ IDEA, PyCharm, Visual Studio Code, Origin, Visio, PowerPoint, LaTeX
 - Core Knowledge Base： Encryption algorithms (Symmetric/Asymmetric), Cryptographic principles, Federated Learning, Data Retrieval, SVM (Support Vector Machine), Decision Tree, Random Forest, LSTM (Long Short-Term Memory), Neural Networks (DNNs, CNNs)
