@@ -15,7 +15,7 @@ head: |
 <div id="about"></div>
 ## Biographies
 
-&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Trusted Computing, Access Control, Deep Learning Security, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
+&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Deep Learning, Trusted Computing, Access Control, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
 
 ---
 
@@ -26,7 +26,7 @@ head: |
 **Sep. 2023 – Present**, Northeastern University (NEU), M.Eng. in Software Engineering  
  Major:Software Engineering, GPA: 3.52/4, Rank 3/73 (Major), Rank 1/24 (Class)
 - First-Class Scholarship for Graduate Students  
-- **Research Interests:** Artificial Intelligence, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
+- **Research Interests:** Artificial Intelligence, Deep Learning Security, Trusted Computing, Access Control, Information Security, Malware Detection, Federated Learning
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
  Major:Software Engineering, GPA: 3.61/5  
