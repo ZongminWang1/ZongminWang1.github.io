@@ -26,7 +26,7 @@ head: |
 **Sep. 2023 – Present**, Northeastern University (NEU), M.Eng. in Software Engineering  
  Major:Software Engineering, GPA: 3.52/4, Rank 3/73 (Major), Rank 1/24 (Class)
 - First-Class Scholarship for Graduate Students  
-- **Research Interests:** Cryptography, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
+- **Research Interests:** Artificial Intelligence, Trusted Computing, Access Control, Deep Learning Security, Information Security, Malware Detection, Federated Learning
 
 **Sep. 2019 – Jun. 2023**, Northeastern University (NEU), B.Eng. in Software Engineering  
  Major:Software Engineering, GPA: 3.61/5  
