@@ -15,7 +15,7 @@ head: |
 <div id="about"></div>
 ## Biographies
 
-&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Deep Learning, Trusted Computing, Access Control, Malware Detection, Federated Learning. He has published three papers: Inscrypt 2024 (LNCS), NGDN 2025, and TrustCom 2025. In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
+&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Deep Learning, Trusted Computing, Access Control, Malware Detection, Federated Learning. He has published four papers: Inscrypt 2024 (LNCS), NGDN 2025, TrustCom 2025 and JISA(Journal). In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
 
 ---
 
@@ -40,7 +40,7 @@ head: |
 <!-- News Section -->
 <div id="news"></div>
 ## 🔥 News
-
+- 2025.10: 🎉 My manuscript, “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings” has been accepted by Journal of Information Security and Applications (JISA)
 - 2025.10: 🎉 Awarded National Scholarship
 - 2025.10: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE TrustCom / BigDataSE / CSE / EUC / iSCI - 2025 
 - 2025.05: 🎉 My manuscript, “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM” has been accepted by IEEE NGDN 2025  
@@ -65,9 +65,9 @@ head: |
 -  **Zongmin Wang**, Guanming Che, Qiang Wang, Fucai Zhou, Jian Xu, and Fanchao Meng.  
   “Malware Classification and Detection in Untrusted Cloud via SGX and ORAM.” *In Proceedings of the 7th International Conference on Next Generation Data-driven Networks (NGDN 2025, IEEE Xplore).* (EI)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, Bao Li, and Haoyan Huang.  
-  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *Submitted to TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (CCF:C, CORE:A, QUALIS:A2)
+  “Blockchain-Verified Attribute-Based Keyword Search with User-Generated Keys in Multi-owner Setting for IoT.” *TrustCom 2025 : IEEE International Conference on Trust,Security and Privacy in Computing and Communications.*  (CCF:C, CORE:A, QUALIS:A2)
 -  **Zongmin Wang**, Qiang Wang, Fucai Zhou, and Jian Xu.  
-  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings.” *Submitted to Journal of Information Security and Applications (JISA).* (Minor revised, Submitted in April, 2025, JCR: Q2)
+  “Revocable Multi-Authority Attribute-Based Keyword Search Scheme for Enhanced Security in Multi-Owner Settings” *Journal of Information Security and Applications (JISA)* (Accepted, JCR: Q2)
 -  Qiang Wang, **Zongmin Wang**, Fucai Zhou, Jian Xu, and Xiaoxin Zhang.  
   “Revocable Decentralized Attribute-Based Keyword Search Scheme for Boolean Queries with Fairness and Blind Verifiability.” *Submitted to IEEE Transactions on Cloud Computing (TCC).* (Under review, Submitted in June, 2025, JCR: Q1)
 
