@@ -15,7 +15,7 @@ head: |
 <div id="about"></div>
 ## Biographies
 
-&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Deep Learning, Trusted Computing, Access Control, Malware Detection, Federated Learning. He has published four papers: Inscrypt 2024 (LNCS), NGDN 2025, TrustCom 2025 and JISA(Journal). In addition, one manuscript is in minor revision at JISA, and another is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
+&emsp; Wang Zongmin was born in Anhui Province, China in 2001. During the years 2019 to 2023, he was pursuing a Bachelor of Engineering degree in Software Engineering at Northeastern University. Now, he is pursuing a Master of Engineering degree in Software Engineering at Northeastern University. <br>  &emsp; Currently, he is seeking a PhD position for his future academic career. His **research interests** includes: Artificial Intelligence, Deep Learning, Trusted Computing, Access Control, Malware Detection, Federated Learning. He has published four papers: Inscrypt 2024 (LNCS), NGDN 2025, TrustCom 2025 and JISA(Journal). In addition, one manuscript is under review at TCC.  <!--<br>👉 [(Click here to view my CV)](https://ZongminWang1.github.io/files/Zongmin_Wang_CV.pdf) -->
 
 ---
 
